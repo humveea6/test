@@ -1,0 +1,12 @@
+zsh:1: command not found: q
+
+if fffzfs
+then 
+echo fhshfhkshf
+echo hkadkhajkfjk
+elif 
+echo command illegal
+ls /Users/humveea6/test
+then 
+	echo test success!
+fi

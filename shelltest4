@@ -1,0 +1,8 @@
+#!/bin/zsh
+
+if pwd
+then 
+echo fhshfhkshf
+echo hkadkhajkfjk
+ls /Users/humveea6/test
+fi

@@ -1,0 +1,7 @@
+#!/bin/zsh
+testing=`date`
+echo the date is $testing
+var1=10
+var2=20
+var3=$[$var2 / $var1]
+echo the result is $var3

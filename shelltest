@@ -1,0 +1,13 @@
+#!/bin/zsh
+#hljgjjgsl
+date
+who
+echo 'this is a shell test'
+echo "user info for userid: $USER"
+echo UID:$UID
+echo HOME:$HOME
+days=100
+testt="hhhhh"
+echo "$testt is $days"
+testt="233"
+echo "$testt is233"
